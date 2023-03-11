@@ -1,6 +1,10 @@
+[![Python application test with Github Actions](https://github.com/abdsaf/flask-sklearn/actions/workflows/main.yml/badge.svg)](https://github.com/abdsaf/flask-sklearn/actions/workflows/main.yml)
+
+# Azure DevOps Project: Building a CI/CD Pipeline
+
 # Overview
 
-<TODO: complete this with an overview of your project>
+This project describe the DevOps CI/CD concepts. using Azure pipeline and Github Actions for automating build, test and deploy ML web application. 
 
 ## Project Plan
 <TODO: Project Plan
@@ -9,10 +13,9 @@
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
+The below diagram shows the project architecture.  
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
-
+![project architecture](ScreenShots/Architecture_of CI_CD_ Project.PNG)
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
