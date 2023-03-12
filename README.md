@@ -7,10 +7,10 @@
 This project describe the DevOps CI/CD concepts. using Azure pipeline and Github Actions for automating build, test and deploy ML web application. 
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+
+* The [Trello board](https://trello.com/invite/b/DgIKN6Gr/ATTI86c6a28cc823036647e817f224198a032C19BB1F/yearlyquarterly-plan) is then used for task planning and tracking.
+* The [quarterly project plan](../../raw/main/plan/CI-CD_yearly_quarterly_project_plan.xlsx) the steps for building CI-CD pipeline.
 
 ## Instructions
 The below diagram shows the project architecture.  
